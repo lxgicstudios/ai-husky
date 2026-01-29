@@ -1,5 +1,10 @@
 # ai-husky
 
+[![npm version](https://img.shields.io/npm/v/ai-husky.svg)](https://www.npmjs.com/package/ai-husky)
+[![npm downloads](https://img.shields.io/npm/dm/ai-husky.svg)](https://www.npmjs.com/package/ai-husky)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Set up git hooks tailored to your project. Analyzes your package.json and creates pre-commit, pre-push, and commit-msg hooks.
 
 ## Install
