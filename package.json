@@ -1,14 +1,43 @@
 {
   "name": "ai-husky",
   "version": "1.0.0",
-  "description": "Set up git hooks with linting and testing using AI",
+  "description": "AI-powered Git hooks generator - Husky + lint-staged setup with GPT optimization",
   "main": "dist/index.js",
-  "bin": { "ai-husky": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["husky", "git-hooks", "linting", "testing", "ai", "cli", "pre-commit"],
+  "bin": {
+    "ai-husky": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "husky",
+    "git-hooks",
+    "pre-commit",
+    "lint-staged",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "workflow",
+    "quality"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/lxgicstudios/ai-husky" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-husky"
+  }
 }
