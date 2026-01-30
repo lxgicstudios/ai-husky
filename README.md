@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-husky.svg)](https://www.npmjs.com/package/ai-husky)
 [![npm downloads](https://img.shields.io/npm/dm/ai-husky.svg)](https://www.npmjs.com/package/ai-husky)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-husky)](https://github.com/lxgic-studios/ai-husky/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Set up git hooks tailored to your project. Analyzes your package.json and creates pre-commit, pre-push, and commit-msg hooks.
