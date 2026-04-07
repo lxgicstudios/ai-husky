@@ -1,5 +1,5 @@
 {
-  "name": "ai-husky",
+  "name": "@lxgicstudios/ai-husky",
   "version": "1.0.0",
   "description": "AI-powered Git hooks generator - Husky + lint-staged setup with GPT optimization",
   "main": "dist/index.js",
